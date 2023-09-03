@@ -1,21 +1,36 @@
 # Instalasi
 ## Instalasi Node
 1. Buka website https://nodejs.org/en/download
+
 ![downloadpage](https://github.com/lab-kcks/Modul-Pemograman-Web/assets/100351038/a009381f-0a58-40d4-b3ee-d712cbad9700)
 2. Download Node versi 16 atau lebih tinggi
+
 ![setup1](https://github.com/lab-kcks/Modul-Pemograman-Web/assets/100351038/cf6fcc9a-1616-4da4-b791-edd7ecc6fe02)
+
 3. Buka file download, lalu klik Next
+
 ![setup2](https://github.com/lab-kcks/Modul-Pemograman-Web/assets/100351038/fcc66f7f-d5f3-4812-99fd-7e60cb538c4e)
+
 4. Klik checkbox agreement, lalu klik Next 
+
 ![setup3](https://github.com/lab-kcks/Modul-Pemograman-Web/assets/100351038/1eac5fa9-20e8-49d9-ad0a-781c1e821f18)
+
 5. Pada destination folder biarkan saja secara default dan klik Next
+
 ![setup4](https://github.com/lab-kcks/Modul-Pemograman-Web/assets/100351038/e1872178-d426-45e9-8158-00e94e9f20b9)
+
 6. Pada custom setup biarkan juga secara default dan klik Next
+
 ![setup5](https://github.com/lab-kcks/Modul-Pemograman-Web/assets/100351038/7697fab0-aaf2-48a0-a955-8acabad30767)
+
 7. Pada Tools for Native Modules biarkan secara default juga dan klik Next
+
 ![setup6](https://github.com/lab-kcks/Modul-Pemograman-Web/assets/100351038/3a0d7b05-9956-4577-8f02-6f482aaf5199)
+
 8. Lalu klik install dan tunggu sampai selesai
+
 9. Buka CMD dan ketik ```node -v``` atau ```npm -v``` untuk melakukan verifikasi instalasi
+
 ![verifikasi](https://github.com/lab-kcks/Modul-Pemograman-Web/assets/100351038/11f7fe7e-fc61-4e8e-8c3c-4a784f521232)
 
 ## Instalasi Vue
